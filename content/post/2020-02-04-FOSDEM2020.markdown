@@ -1,0 +1,158 @@
+---
+title: "FOSDEM 2020 - What a weekend!"
+date: "2020-02-04"
+tags:
+- fosdem
+- brussels
+- FOSS
+categories:
+- blog
+- conferences
+author: jtorrex
+---
+
+# Description:
+
+A brew review about another great FOSDEM event
+
+# Friday: Beers and friends!
+
+BCN to BRU, trying to arrive early at the airport and enjoying these slots of time relaxed and saving energy for an intense weekend on the European capital.
+
+As another year, the trip to the most important conference about Open Source was going to start.
+
+At the plane, my seat was exactly before a friend, who last year stayed with me and other good friend  enjoying some talks related to DevOps and Infra Management mainly. Was nice to see him at the same place!
+
+At the arrival, he stays at the airport waiting for their colleagues, and I took the train directly to Brussels - Central, this was a route that I already knew from the last edition.
+
+As the last year, I rent a shared room on an affordable hostel that was near to different places that are very important for me: the central train station, the centre of the city and a bus stop with the ULB destination on their line.
+
+After saved my luggage at the hostel and a shower, was time to reach to the centre to enjoy the Friday Beer Event at the Delirium Tremens Cafe, an excellent place to taste some Belgian beers and reencounter other colleagues.
+
+At the entrance, I answered Drew for their questions about my current distro and my favourite programming language, and I went inside to took some tokens for beers.
+
+The beers are fantastic (my decision was with Guillotine, Belgian Ale 8,5% and Delirium Tremens, Ale 8,5%) and the ambient too. Waiting for my colleague I met one guy from the US enjoying for the first time the event, and a couple that I asked for some recommendations to schedule the first day of FOSDEM.
+
+When my collegue arrived, I sitted on their table with some other people from BCN enjoying the event. I met some of them and I enjoyed their conversations sharing a good pair of beers. What a beautiful place to meet people!
+
+After the beers, was time to eat something with another friend that worked with me before, and two of their colleagues. All of us are working currently on HPC centres, so obviously it's very nice to meet them.
+
+After the dinner, the Friday ends, and the time to rest and recharge energies for the expected day arrived.
+
+# Saturday: Welcome FOSDEM20
+
+The expected day.
+
+I tried to wake up at a reasonable hour (not too early, I admit) and use the breakfast at the hostel as an excellent opportunity to gain some energy for the first part of the day.
+
+The bus stop (Bozar - 71) was well knew by me near to the hostel, so I moved to it and waited for the bus that as I expected, was nearly to explode because was full with compressed FOSDEM enthusiasts.
+
+It's always funny, especially enjoying the faces of the people on other stops impressed with the capacity of their local public vehicles.
+
+After some stops, we arrived at the ULB, and for my surprise during the morning, weather was very well compared with the last year.
+
+For me, the first stop was the H building, to walk across the first stands and took the FOSDEM paper schedule. In my first stop, I discovered [Musescore](https://musescore.org/en), a handy app to musical notation. As a user, I visited the Nextcloud stand to took some stickers and learned some news about [Onlyoffice](https://www.onlyoffice.com) and [DavX5](https://www.davx5.com/). This last, very recommend for people that use CalDAV and CarDAV on self-hosted solutions.
+
+Next stop was the K building, my point of reencounter with my HPC sysadmin friends from the last night. At these hours in the morning, the building was overloaded of people and, it's a kind difficult to view some stands with more calm so that we can wait for it.
+
+It's late, and our first talk together was:
+
+- [```Over Twenty Years Of Automation```](https://fosdem.org/2020/schedule/event/automation/): whit James Shubin reviewing the last tendencies about tools for config management on the past years and talking about their project [mgmtconfig](https://github.com/purpleidea/mgmt).
+
+After assisting the 1st talk, the next step was to lunch something and, this year we decided to give a chance to the rice + curry offered on the F building. For the price, the food was excellent, and also I enjoyed a good conversation with my friend sit on the stairs.
+
+Next step was to taking coffee, and move out to the upcoming talks. First, we followed this talks scheduled on the Infrastructure Management room:
+
+- [```Foreman meets Ansible:```](https://fosdem.org/2020/schedule/event/foremanansible/) as a great integration between these great tools.
+
+- [```Hacking Terraform for fun and profit:```](https://fosdem.org/2020/schedule/event/terraform/)
+
+After these, we continued following these others talks on the Containers room:
+
+- [```Containers and Steam:```](https://fosdem.org/2020/schedule/event/containers_steam/) a fascinating exposition by Simon talking about the problems that they encounter with libs dependencies to run the Steam client on Linux environments.
+
+- [```Distributed HPC Applications with Unprivileged Containers:```](https://fosdem.org/2020/schedule/event/containers_hpc_unprivileged/) An interesting talk about the NVIDIA methodology to deploying containers with no privileges inside GPU clusters.
+
+- [```Kubernetes on ARM64:```](https://fosdem.org/2020/schedule/event/containers_k8s_arm64/) explaining how to use some RPBis for deploying a cheap, functional Kubernetes cluster.
+
+At the end of this talk, I decided that was enough for the first day at FOSDEM and, I returned to the hostel. This time, the bus was more empty than on the morning, so it was nice to enjoy a visit on the Brussels streets with public transport service.
+
+For this night, I walked around the Brussels centre, enjoying a good pack of classic fries and after I went back to the hostel to rest for the last day of FOSDEM.
+
+# Sunday: 2nd day and a sadly goodbye
+
+Another day, Sunday, and unfortunately, the last day of this excellent conference. I wake up on the morning as early as I can, recharged my batteries with the hostel breakfast and moved to the near bus stop that connects me to the ULB again.
+
+When I arrived at the campus, I synced with my colleagues to locate them and know were they was. The meeting point was at the restaurant, to drink a good espresso and wait until they arrived. During this time, I tried to follow some talks on the streaming:
+
+- [```Test Software On Emulated Hardware In Containers... In The Cloud:```](https://fosdem.org/2020/schedule/event/test_software_on_emulated_hardware_in_containers_in_the_cloud/)
+
+- [```FreeBSD around the world:```](https://fosdem.org/2020/schedule/event/freebsd_around_the_world/)
+
+Both were very interesting for me, but unfortunately, I can't follow it entirely well so, I decided to follow it later on the dedicated section of the FOSDEM site: [Videos](https://video.fosdem.org/2020/)
+
+Our next move was to the HPC thread room, basically because all of us are working on this kind of environment and always is well to discover and learn techs and methods from other people and institutions. At the time when we arrived at the room, the next scheduled talks were:
+
+- [```Predictive maintenance:```](https://fosdem.org/2020/schedule/event/predictive_maintenance/)
+
+- [```Towards reproducible Jupyter notebooks:```](https://fosdem.org/2020/schedule/event/reprod_jupyter_guix/)
+
+- [```Buildtest: HPC Software Stack Testing Framework:```](https://fosdem.org/2020/schedule/event/buildtest/)
+
+- [```Facilitating HPC job debugging through job scripts archival:```](https://fosdem.org/2020/schedule/event/job_script_archival/)
+
+- [```Sharing Reproducible Results in a Container:```](https://fosdem.org/2020/schedule/event/reprod_container/)
+
+After these talks, we decided to lunch, and as in the last day, our decision was for the curry + rice again! For the price that it costs, it offered a well-balanced offer between cost and quality.
+
+Time for another coffee and after, our ways were divided, my HPC colleagues returned to the HPC room and, in my case, I moved to the Virtualization and IaaS devroom. Inside the place I found my appreciate friend with their colleague (the guy that I found on the plane the first day) both working on the same company and professionally very interested on cloud techs, automation and config management tools.
+
+Inside this room, we followed these talks:
+
+- [```A VM journey from VMware to Kubernetes:```](https://fosdem.org/2020/schedule/event/vai_vm_journey_from_vmware_to_k8s/) As an explanation for moving well known services on typical VM environments to orchestrated VM environments under Kubernetes using Kubevirt.
+
+- [```Back to the future, Incremental backup in oVirt:```](https://fosdem.org/2020/schedule/event/vai_back_to_the_future/) A fascinating talk for me because I'm administrating an oVirt environment and, I had a curiosity about how Eyal and Daniel implemented their solution for backups. Thanks for share this info with all!
+
+When the last talk finished, we moved to the K building, to walk again between the stands and enjoy one more time the excellent ambient of these building with a lot of hackers and companies involved on Open Source projects.
+
+On my walk around the K building, I discovered some interesting projects like:
+
+- [Kubevirt](https://kubevirt.io/)
+- [Checkmk](https://checkmk.com/)
+- [xcp-ng](https://xcp-ng.org/)
+
+An also, news and updates for some of the others that I already knew.
+
+I proposed to assist to the Maddog speech on the Janson building and they accepted, as I expected, their talk was very interesting for a lot of people because the entire room was full.
+
+- [```FOSSH - 2000 to 2020 and beyond!:```](https://fosdem.org/2020/schedule/event/fossh/) The talk was fascinating, because covered from Jon Hall a vast extension of time of projects and anecdotic milestones on the computer science history. He was very acclaimed by the assistants on the room and because he exposed a compelling vision about the philosophy of freedom and Open Source projects. Thanks maddog for this inspirational talk.
+
+And now, one of the sadness moments of the weekend, the last talk for me at the event:
+
+- [```FOSDEM@20 - A Celebration:```](https://fosdem.org/2020/schedule/event/fosdem_at_20/) A talk by Steven Goodwing with a retrospective vision of the origins of the conference, with funny curiosities on the past and a mention to the people that were involved on the first editions and did this event possible. A very emotive talk for me, because I felt all the effort that the community did to offer this fantastic event entirely free for all the people interested. Many thanks to all of them!
+
+At the exit of this last talk, we are obsequied with some sweet mini-cakes with the FOSDEM logo. I loved it because these little details make this conference awesome.
+
+Time for goodbyes, my friend and their colleagues leave the ULB taking their bus to the cfgmgmtcamp event, and I went to the Chez Teo bar to say bye to my HPC colleagues. They were reunited with the EasyBuild maintainers, enjoying some beers and talking of trips, events, family, etc. Another great example about how many friendliness and good moments involves this event.
+
+When the conversation ended, I said bye to all of them. My colleagues took a taxi to the airport and, in my case, I took my appreciate bus on line 71 that returned me to the centre of the city.
+
+For this night, I went directly to dinner from the bus stop first, deciding to taste a good ration of WOK and noddles. After that, I came back again to the hostel to relax and rest from this awesome day at the FOSDEM conference.
+
+# Monday: Brussels and return day
+
+I prefer to stay the Monday morning in Brussels and come back to BCN on the evening.
+
+I dedicated my last hours entirely on BRU to stay relaxed in the city to enjoy some of the touristic places that I cannot visit in the previous year and, I missed.
+
+For me, walk around the centre of Brussels was nice because a significant part of the streets doesn't have much traffic and it permits to enjoy the ambient, with the classical waffles shops and chocolate shops with their historical buildings that we can found here.
+
+I visited the main square and also the cathedral, other old churches, and a couple of shops with vintage vinyls, books, and comics.
+
+After some hours, and when the hour of my departure was closer, I took my return train from Brussels-Central to Zaventem airport. On the travel, I remembered these great days that I passed at this conference, with good moments, magnificent people and dreaming on coming back to the next edition.
+
+On my TO-DOs from this FOSDEM edition, a complete list of talks that I cannot enjoy on these days and I have pending to view.
+
+For close this post, sincerely, many thanks to all the people that made it possible and many thanks to all that enjoyed with me some time on this great place with this awesome community.
+
+See you on FOSDEM21!!

@@ -1,0 +1,48 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "jtorrex: Personal page of another *nix enthusiast"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+paginate: 10
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: About
+      url: "about/"
+      weight: 2
+    - name: Categories
+      url: "categories/"
+      weight: 3
+    - name: Tags
+      url: "tags/"
+      weight: 4
+    - name: Photos
+      url: "https://photos.t0rrex.net"
+      weight: 5
+    - name: Linkedin
+      url: "https://linkedin.com/in/jtorrex"
+      weight: 6
+    - name: Github
+      url: "https://github.com/jtorrex"
+      weight: 7
+    - name: RSS
+      url: "index.xml"
+      weight: 8
+params:
+  description: "jtorrex: Personal page of another *nix enthusiast"
+  footer: "&copy; [jtorrex](https://jtorrex.net) 2018 -- 2021 | Mail: jtorrex (at) posteo.net"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
