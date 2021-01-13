@@ -2,6 +2,6 @@
 title: Home
 ---
 
-[<img src="https://avatars1.githubusercontent.com/u/53188139?s=460&u=28f5b3af86dbacfeb2fbb8f39162e259d3f60d4b&v=4" style="max-width:15%;min-width:40px;float:center;" alt="Main Page" />](https://jtorrex.net)
+[<img src="https://media-exp1.licdn.com/dms/image/C5603AQHa3FM-wYUnLA/profile-displayphoto-shrink_400_400/0/1568496899810?e=1616025600&v=beta&t=TfrjYb9ahcG0l76ruHq8fApSyRgnUoJpAwzztSmDaY4" style="max-width:15%;min-width:40px;float:center;" alt="Main Page" />](https://jtorrex.net)
 
 
