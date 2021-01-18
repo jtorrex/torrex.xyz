@@ -27,7 +27,7 @@ menu:
       url: "tags/"
       weight: 4
     - name: Photos
-      url: "https://photos.jtorrex.net"
+      url: "https://photos.torrex.xyz"
       weight: 5
     - name: Stoic
       url: "stoic/"
@@ -43,7 +43,7 @@ menu:
       weight: 9
 params:
   description: "jtorrex: Personal page of another *nix enthusiast"
-  footer: "&copy; [jtorrex](https://jtorrex.net) 2018 -- 2021 | Mail: jtorrex (at) posteo.net"
+  footer: "&copy; [jtorrex](https://torrex.xyz) 2018 -- 2021 | Mail: jtorrex (at) posteo.net"
 
 markup:
   goldmark:
