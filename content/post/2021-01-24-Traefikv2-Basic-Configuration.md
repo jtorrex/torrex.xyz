@@ -66,7 +66,8 @@ This start the dockerized stack that you defined before.
 
 When the stack was running (you can check it with):
 
-```watch docker ps
+```
+watch docker ps
 ```
 
 Visit your defined domain to check if the webservice was correctly published, you should see something like:
