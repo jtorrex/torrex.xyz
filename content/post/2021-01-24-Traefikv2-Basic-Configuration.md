@@ -58,7 +58,8 @@ To customize this test, replace whoami.localhost by your own domain, obtaining t
 
 * On the same directory where the docker-compose.yml file reside, run:
 
-```docker-compose up -d
+```
+docker-compose up -d
 ```
 
 This start the dockerized stack that you defined before.
