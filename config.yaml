@@ -32,15 +32,12 @@ menu:
     - name: Stoic
       url: "stoic/"
       weight: 6
-    - name: Linkedin
-      url: "https://linkedin.com/in/jtorrex"
-      weight: 7
     - name: Github
       url: "https://github.com/jtorrex"
-      weight: 8
+      weight: 7
     - name: RSS
       url: "index.xml"
-      weight: 9
+      weight: 8
 params:
   description: "jtorrex: Personal page of another *nix enthusiast"
   footer: "&copy; [jtorrex](https://torrex.xyz) 2018 -- 2021 | Mail: jtorrex (at) posteo.net"
