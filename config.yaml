@@ -41,6 +41,9 @@ menu:
     - name: Twitter
       url: "https://twitter.com/jt0rrex"
       weight: 9
+    - name: Lichess
+      url: "https://lichess.org/@/jtorrex"
+      weight: 10
     - name: RSS
       url: "index.xml"
       weight: 10
