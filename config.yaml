@@ -35,12 +35,18 @@ menu:
     - name: Github
       url: "https://github.com/jtorrex"
       weight: 7
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/jtorrex/"
+      weight: 8
+    - name: Twitter
+      url: "https://twitter.com/jt0rrex"
+      weight: 9
     - name: RSS
       url: "index.xml"
-      weight: 8
+      weight: 10
 params:
   description: "jtorrex: Personal page of another *nix enthusiast"
-  footer: "&copy; [jtorrex](https://torrex.xyz) 2018 -- 2021 | Mail: jtorrex (at) posteo.net"
+  footer: "&copy; [jtorrex](https://torrex.xyz) 2018 -- 2022 | Mail: jtorrex (at) posteo.net"
 
 markup:
   goldmark:
