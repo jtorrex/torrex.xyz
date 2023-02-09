@@ -27,7 +27,7 @@ menu:
       url: "tags/"
       weight: 4
     - name: Photos
-      url: "https://photos.torrex.xyz"
+      url: "https://pixefed.social/jtorrex"
       weight: 5
     - name: Stoic
       url: "stoic/"
