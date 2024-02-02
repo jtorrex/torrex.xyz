@@ -3,7 +3,7 @@ title: About jtorrex
 toc: false
 ---
 
-[<img src="https://media-exp1.licdn.com/dms/image/C5603AQHa3FM-wYUnLA/profile-displayphoto-shrink_100_100/0/1568496899810?e=1616025600&v=beta&t=3xkl0Tc1PFvtgDTp4sIhkBUzyvp1MNLSzDKiC9ek4QY" style="max-width:15%;min-width:40px;float:center;" alt="Main Page" />](https://jtorrex.net)
+[<img src="https://media-exp1.licdn.com/dms/image/C5603AQHa3FM-wYUnLA/profile-displayphoto-shrink_100_100/0/1568496899810?e=1616025600&v=beta&t=3xkl0Tc1PFvtgDTp4sIhkBUzyvp1MNLSzDKiC9ek4QY" style="max-width:15%;min-width:40px;float:center;" alt="Main Page" />](https://torrex.xyz)
 
 I'm just another curious person interested on projects based for *nix environments, so I don't consider myself as an expert, but for now I'm enjoying taking a look on all that seems interesting for me.
 
