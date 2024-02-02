@@ -29,8 +29,8 @@ menu:
     - name: Photos
       url: "https://portfolio.pixelfed.social/jtorrex"
       weight: 5
-    - name: Stoic
-      url: "stoic/"
+    - name: Public Key
+      url: "pgp/"
       weight: 6
     - name: Github
       url: "https://github.com/jtorrex"
@@ -39,16 +39,19 @@ menu:
       url: "https://www.linkedin.com/in/jtorrex/"
       weight: 8
     - name: Twitter
-      url: "https://twitter.com/jt0rrex"
+      url: "https://twitter.com/xjtorrex"
       weight: 9
+    - name: Mastodon 
+      url: "https://fosstodon.org/@jtorrex"
+      weight: 10
     - name: Lichess
       url: "https://lichess.org/@/jtorrex"
-      weight: 10
+      weight: 11
     - name: RSS
       url: "index.xml"
-      weight: 10
+      weight: 12
 params:
-  description: "jtorrex: Personal page of another *nix enthusiast"
+  description: "jtorrex: Personal page of an *nix enthusiast"
   footer: "&copy; [jtorrex](https://torrex.xyz) 2018 -- 2022 | Mail: jtorrex (at) posteo.net"
 
 markup:
