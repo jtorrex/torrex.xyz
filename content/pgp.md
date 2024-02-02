@@ -1,3 +1,11 @@
+---
+title: Public Key
+toc: false
+---
+
+* Personal Publik PGP Key
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGFnU14BEAC4lXSxXxW3UJh3DzxjQoqTHn0XoIuSqG5jXC7F1Aykehni4L95
@@ -77,3 +85,4 @@ t6A8Lmspci9e99BfmE/qmmcHiolMWlY8Nu0qN03vBIFjzuK5q5fjcMx/JvMEYlKD
 8Lb6REAHw3gA1xaCU3TJx3YeD1DSAzWii8zgs/1Imv9bLSPkHvxqIA==
 =WjmU
 -----END PGP PUBLIC KEY BLOCK-----
+```
