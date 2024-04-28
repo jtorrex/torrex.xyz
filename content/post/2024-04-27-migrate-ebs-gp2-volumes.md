@@ -30,7 +30,7 @@ With EBS gp3 volumes, AWS allows the customers to modify both the IOPS and the t
 
 * https://aws.amazon.com/blogs/storage/how-to-choose-the-best-amazon-ebs-volume-type-for-your-self-managed-database-deployment/
 
-![](../../resources/assets/images/mongodb-gp2-gp3/ebs-volumes.png)
+![](https://gitlab.com/jtorrex/torrex.xyz/-/raw/54d539124088e6c3a2a3343162efbe0bc24502b5/resources/assets/images/mongodb-gp2-gp3/ebs-volumes.png)
 
 ## Scenario
 
@@ -38,7 +38,7 @@ The scenario involves a MongoDB Community deployment over EKS managed by FluxCD,
 
 * https://github.com/mongodb/mongodb-kubernetes-operator/blob/master/config/samples/mongodb.com_v1_mongodbcommunity_cr.yaml
 
-![](../../resources/assets/images/mongodb-gp2-gp3/statefulset-volumes.png)
+![](https://gitlab.com/jtorrex/torrex.xyz/-/raw/master/resources/assets/images/mongodb-gp2-gp3/statefulset-volumes.png)
 
 A valid example manifest similar to the used on the MongoDB community deployment, can be:
 
